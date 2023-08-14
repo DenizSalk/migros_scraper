@@ -1,5 +1,5 @@
 # migros_scraper
-product scraper for migros market
+product scraper for Migros Market
 
 Reqs:
   selenium	4.10.0
